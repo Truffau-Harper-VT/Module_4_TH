@@ -15,7 +15,7 @@ knitr::opts_chunk$set(echo = TRUE)
 ```
 
 ```{r}
-## install.packages("tidyverse")
+##install.packages("tidyverse")
 library(tidyverse)
 library(lubridate)
 ## Main script for phenology analysis
